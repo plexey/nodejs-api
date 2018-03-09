@@ -1,12 +1,12 @@
 {
   "name": "notable",
   "version": "1.0.0",
-  "description": "test",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js"
   },
-  "a  uthor": "Tom Trinca",
+  "author": "Tom Trinca",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
